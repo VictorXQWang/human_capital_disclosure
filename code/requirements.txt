@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+
+gensim=4.2.0=py310hd77b12b_0
+multiprocess=0.70.11.1=pypi_0
+nltk=3.7=pyhd3eb1b0_0
+numpy=1.23.3=py310h60c9a35_0
+pandas=1.4.4=py310hd77b12b_0
+python=3.10.6=hbb2ffb3_1
+regex=2022.7.9=py310h2bbff1b_0
+spacy=3.3.1=py310hef0f399_0
+tqdm=4.64.1=py310haa95532_0
